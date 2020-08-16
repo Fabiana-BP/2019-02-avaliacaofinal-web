@@ -1,6 +1,6 @@
 # 2019-02-avaliacaofinal-web
 
-**CSI477-2019-02-PROVA-01**
+> Sistema de controle de Trabalhos de Conclusão de Curso desenvolvido para avaliação do curso Sistemas de desenvolvimento WEB I na UFOP.
 
 ## *Fabiana Barreto Pereira*
 
